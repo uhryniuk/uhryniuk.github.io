@@ -1,0 +1,4 @@
+baseURL = 'https://uhryniuk.github.com/'
+languageCode = 'en-us'
+title = 'uhryniuk.github.com'
+theme = 'ananke'
